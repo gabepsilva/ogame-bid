@@ -41,3 +41,8 @@ This script was designed to enhance the OGame trader auctioneer page by adding a
 - **Visual Feedback**: The custom UI displayed the status of each condition and allowed you to update settings.
 
 **Note**: The script is no longer functional or competitive due to changes in the game's policies and mechanics.
+
+## Screenshot
+
+![Screenshot of the script in action](https://github.com/gabepsilva/ogame-bid/blob/main/o-screenshot1.png)
+
